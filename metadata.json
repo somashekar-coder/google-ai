@@ -1,0 +1,6 @@
+{
+  "name": "TASTE OF Pulao's Shreyas Grand",
+  "description": "Hotel and Restaurant opposite Anantapur Railway Station offering authentic Andhra pulaos, biryanis, multi-cuisine dining, and comfortable room stays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
